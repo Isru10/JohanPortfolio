@@ -1,4 +1,4 @@
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import {RiReactjsLine} from "react-icons/ri";
 
 import {TbBrandNextjs} from "react-icons/tb";
@@ -8,7 +8,8 @@ import {DiRedis} from "react-icons/di";
 import {SiMongodb} from "react-icons/si";
 import {FaNodeJs} from "react-icons/fa";
 import {BiLogoPostgresql} from "react-icons/bi";
-import { animate } from "motion";
+// import { animate } from "motion";
+import { animate } from "framer-motion";
 
 
 const iconVariants = (duration)=>({
