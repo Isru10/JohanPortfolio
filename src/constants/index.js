@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.png";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 4 years of hands-on experience, I have honed my skills in front-end technologies like React and Nextjs.js, as well as back-end technologies like Node.js, Laravel, Express, and databases like MongoDB and PostgreSQL. My goal is to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 3 years of professional experience, I have worked with a variety of technologies, including React, NUXT.js, Node.js, Express, VUE.js, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 4 years of experience, I have worked with a variety of technologies, including React, Next.js, Node.js, Express, Vue.js, PostgreSQL and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
@@ -27,7 +27,7 @@ export const EXPERIENCES = [
     role: "Backend Developer",
     company: "EWENET COMMUNICATIONS PLC",
     description: `Developed and maintained web applications using Laravel, Nuxt.js, and Vue.js. Designed and implemented RESTful APIs for data communication using Laravel. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Laravel", "mySQL","Nuxt.js","Vue.js"],
+    technologies: ["Laravel", "mySQL","Nuxt.js"],
   },
   {
     year: "2020 - 2021",
