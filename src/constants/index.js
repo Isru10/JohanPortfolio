@@ -8,26 +8,27 @@ export const HERO_CONTENT = `I am a passionate full stack developer with a knack
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 4 years of experience, I have worked with a variety of technologies, including React, Next.js, Node.js, Express, Vue.js, PostgreSQL and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
+    {
+    year: "2025 - Present",
+    role: "FullStack Developer",
+    company: "A2SV Escalate",
+    description: `Implementing Next.js applications with Tailwind CSS and Typescript. developing RESTful APIs using Express.js. Collaborating with cross-functional teams to deliver high-quality software products on schedule.`,
+    technologies: ["Next.js", "Postgresql",'MongoDB',"Typescript","NeonDB","Tailwind CSS"],
+  },
   {
     year: "2024 - Present",
     role: "A2SVian/ A2SV Trainee",
     company: "A2SV",
     description: `Mastering Data structures and algorithms to enhance problem-solving skills. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "python 3", "html", "css"],
+    technologies: ["Javascript", "python 3", "Data structures and algorithms"],
   },
-  {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "EWENET COMMUNICATIONS PLC",
-    description: `Designed and developed user interfaces for web applications using Nuxt.js and React. Worked closely with backend developers to integrate frontend components with Laravel. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["Vue.js", "mySQL",'Nuxt.js'],
-  },
+
   {
     year: "2021 - 2022",
-    role: "Backend Developer",
+    role: "Fullstack Developer",
     company: "EWENET COMMUNICATIONS PLC",
     description: `Developed and maintained web applications using Laravel, Nuxt.js, and Vue.js. Designed and implemented RESTful APIs for data communication using Laravel. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Laravel", "mySQL","Nuxt.js"],
+    technologies: ["Laravel", "mySQL","Nuxt.js","Vue.js"],
   },
   {
     year: "2020 - 2021",
