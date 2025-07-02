@@ -11,9 +11,9 @@ export const EXPERIENCES = [
     {
     year: "2025 - Present",
     role: "FullStack Developer",
-    company: "A2SV Escalate",
+    company: "A2SV Eskalate",
     description: `Implementing Next.js applications with Tailwind CSS and Typescript. developing RESTful APIs using Express.js. Collaborating with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Next.js", "Postgresql",'MongoDB',"Typescript","NeonDB","Tailwind CSS"],
+    technologies: ["Next.js", "Postgresql",'MongoDB',"Typescript","NeonDB","Tailwind CSS","Shadcn/UI"],
   },
   {
     year: "2024 - Present",
